@@ -1,0 +1,1 @@
+## For more information, go to : https://github.com/Joris69320/MouseMover/wiki
